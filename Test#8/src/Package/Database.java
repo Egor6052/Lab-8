@@ -24,7 +24,7 @@ public class Database {
         return rectangleList.add(rectangle);
     }
     /**
-     * Получение лбъекта;
+     * Получение объекта;
      * @param index
      * @return
      */
