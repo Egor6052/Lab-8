@@ -128,27 +128,5 @@ public class Database {
     private void clear() {
         this.rectangleList.clear();
     }
-
-//    //Нахожу элемент с максимальной и минимальной площадью;
-//    public double maxSquare(){
-//        double MAX = 0;
-//        for (Rectangle rectangle : rectangles){
-//            if(MAX < rectangle.Area()){
-//                MAX = rectangle.Area();
-//            }
-//        }
-//        return MAX;
-//    }
-//    public double minSquare() {
-//        double MIN = 0;
-//        for(Rectangle rectangle : rectangles){
-//            if(MIN < rectangle.Area()){
-//                MIN = rectangle.Area();
-//            }
-//        }
-//        return MIN;
-//    }
-//    public void setRectangles(Rectangle[] rectangles) {
-//        this.rectangles = rectangles;
-//    }
+    
 }
